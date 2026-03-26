@@ -1,28 +1,15 @@
-# Sistema de Gestión Digital 🚀
+# 💫 Acerca de mi:
+Tengo un gran interés en el mundo de la programación.<br>Me apasiona aprender y aplicar lenguajes como PHP, Java y Python, ya que cada uno me permite explorar diferentes áreas, desde el desarrollo web hasta la creación de aplicaciones y la automatización de procesos.<br><br>Me considero una persona curiosa, perseverante y creativa, siempre en busca de nuevas formas de resolver problemas y mejorar mis habilidades.<br><br>Mi objetivo es seguir creciendo en el ámbito tecnológico, participar en proyectos que me desafíen y aportar soluciones innovadoras que generen un impacto positivo.
 
-_Una solución robusta y escalable para la gestión de procesos críticos, desarrollada con un enfoque en la eficiencia técnica y la calidad del código._
 
-Este proyecto permite la integración de servicios de backend en PHP con interfaces dinámicas en React, optimizado para entornos de despliegue en la nube.
+# 💻 Tecnologia:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Cristian Cancan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Cristian Cancan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian Cancan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## Comenzando 🚀
+---
+[![](https://visitcount.itsvg.in/api?id=Cristian Cancan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
-
-Mira **Despliegue** para conocer cómo llevar el proyecto a un entorno de producción.
-
-### Pre-requisitos 📋
-
-Para instalar el software necesitas contar con el siguiente stack:
-
-* **PHP 8.1+** e instalador de dependencias **Composer**.
-* **MySQL 8.0** para la persistencia de datos.
-* **Node.js & NPM** para la gestión de módulos de frontend.
-* **Azure CLI** (opcional) si deseas gestionar recursos de nube.
-
-### Instalación 🔧
-
-Sigue estos pasos para configurar tu entorno de desarrollo:
-
-1. **Clonar el repositorio:**
-   ```bash
-   git clone [https://github.com/CristianRC77/tu-proyecto.git](https://github.com/CristianRC77/tu-proyecto.git)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
